@@ -1,14 +1,5 @@
-main {
+body {
     background-color: aqua;
 }
 
-.iframe {
-    background-color: blue;
-    height: 50px;
-}
 
-.button {
-
-    background-color: blueviolet;
-    height: 100px;
-}
